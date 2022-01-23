@@ -11,4 +11,4 @@ select * from work;
 select max(package) from detail
 
 
-
+select min(package) from detail
